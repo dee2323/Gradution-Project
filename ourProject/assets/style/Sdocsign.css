@@ -1,0 +1,44 @@
+body{
+    background-image: url(../image/img2.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position-x: left;
+   font-size: 18px;
+   font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.sess1{
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    padding-top: 8px;
+    padding-bottom: 10px;
+   margin-left: 50px;
+   margin-top: 20px;
+}
+
+.sess1 input{
+    font-size: 16px;
+    margin: 10px;
+    padding: 7px;
+    width: 70%;
+    text-align: center;
+    
+}
+.input{
+    border: none;
+    border-bottom: black 1px solid;
+
+}
+.btn{
+    font-weight: 900;
+    border: none;
+    border-radius: 5px;
+    background-color: #4169e171;
+}
+.link{
+    font-size: 16px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 10px 95px;
+}
