@@ -1,5 +1,5 @@
 # Gradution-Project
-<p>My project was about predicting if there is heart attack prediction and make emargancy call.</p>
+<p>My project was about predicting if there is heart attack prediction and making emargancy call.</p>
 
 <h2>Overview of the problem and suggested solution:</h2>
 <p>
