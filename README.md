@@ -6,6 +6,7 @@
 <b>Problem</b>: The main problem is that in many cases the patient is saved by a doctor even after minor or major attacks, but also in most heart attack cases the patient gets died due to unavailability of medical treatment under a minimal time due to the incapability of patient to inform anyone during the attack period and also for their family members as being unknown from this kind of emergency condition to any of their relatives. And due to this kind of sudden attack may lead to the death of a patient even before consulting any doctor. So, we cannot prefer consulting doctors after having attacks as the perfect solution for precaution from the occurrence of heart attacks.<br><br>
 <b>Suggested solution</b>: Using artificial intelligence techniques, machine learning, to build a system that helps experts to transfer their human expertise to the machine so the machine becomes able to predict in the event of his heart attack and do emergency communication by making calls and sending an alert.
 </p>
+<img src="https://github.com/dee2323/Gradution-Project/blob/main/ourProject/home.png">
 
 <h2>The target groups of the project:</h2>
 <p>The services provided in the project serve several categories:</p>
